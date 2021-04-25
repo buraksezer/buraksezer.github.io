@@ -1,4 +1,4 @@
-baseURL = "https://buraksezer.github.io"
+baseURL = "https://buraksezer.github.io/"
 languageCode = "en-us"
 title = "burak@unix~$"
 theme = "ezhil"
